@@ -1,4 +1,4 @@
-# WOTAPLAY
+# WOTAPLAYER
 针对wota艺打师的便捷视频播放软件
 
 建议不要用来播放分辨率较高的mkv格式视频，跳转读帧会失效
